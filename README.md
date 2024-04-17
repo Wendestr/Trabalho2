@@ -9,3 +9,5 @@
    
 
   $U_{\beta}=\partial{L}(\theta)/\partial\beta=w(\delta)\boldsymbol{X}^T \boldsymbol{\Sigma}^{-1}{\epsilon}$  and  $U_\phi=\partial{L}(\theta)/\partial\phi$
+
+  com os j-ésimo elemento do U_\phi
