@@ -1,4 +1,5 @@
 # Trabalho2
 **Estimativa de máxima verossimilhança**
  Para os parâmetro do modelo, adaptamos um algoritmo proposto por Anderson(1973). A log-verossimilhança para o modelo espacial linear t-Student é dado por 
+ 
  $L(\theta)$
