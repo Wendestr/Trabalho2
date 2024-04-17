@@ -10,4 +10,12 @@
 
   $U_{\beta}=\partial{L}(\theta)/\partial\beta=w(\delta)\boldsymbol{X}^T \boldsymbol{\Sigma}^{-1}{\epsilon}$  and  $U_\phi=\partial{L}(\theta)/\partial\phi$
 
-  com os j-ésimo elemento do $U_\phi, dado por U_{{\phi}_{j}}=\partial{L}(\theta)/\partial\phi_j= -\frac{1}{2}tr(\Sigma^{-1}(\partial\Sigma/\partial\phi_j)) q\frac{1}{2}w(\delta) epsilon^T\Sigma^{-1}(\partial\Sigma/\partial_\phi_j$
+  com o j-ésimo elemento de $U_{\phi}$, dado por 
+
+$U_{{\phi}_{j}}$ $=\partial L(\theta)\partial\phi_j=-\frac{1}{2}tr(\Sigma)^-1(\partial \Sigma/\partial\phi_j))+\frac{1}{2}w(\delta)\epsilon^T\Sigma^-1(\partial \Sigma/\partial\phi_j)\Sigma^-1\epsilon,$ para $j=1,2, w(\delta)=(\frac{1+\eta n}{\eta})(\frac{c(\eta)}{1+c(\eta)\delta})$ e $\psi(x)$ é a função Digama. Nesse artigo, $\Sigma=\phi_1I_n+\phi_2R$, então $\partial \Sigma/\partial_1=I_n$ e $\partial \Sigma/\partial\phi_2=R$. Dado $\Sigma$, a função log-verossimilhança (4.4) é maximizada em
+
+$\hat{ \beta} =(\boldsymbol{X}^T{\Sigma}^{-1} {X})^{-1}\boldsymbol{X}^T \boldsymbol{\Sigma}^{-1}\boldsymbol{Y}$
+
+e de$U_{\phi}=0$tem-se que, 
+
+i $\phi$
