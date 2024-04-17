@@ -16,6 +16,6 @@ $U_{{\phi}_{j}}$ $=\partial L(\theta)\partial\phi_j=-\frac{1}{2}tr(\Sigma)^-1(\p
 
 $\hat{ \beta} =(\boldsymbol{X}^T{\Sigma}^{-1} {X})^{-1}\boldsymbol{X}^T \boldsymbol{\Sigma}^{-1}\boldsymbol{Y}$
 
-e de$U_{\phi}=$0tem-se que, 
+e de $U_{\phi}=$0tem-se que, 
 
 i $\phi$
