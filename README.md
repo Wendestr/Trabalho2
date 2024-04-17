@@ -8,4 +8,4 @@
    As funções escores para o modelo espacial linear t-Student são fornecidas por $U\phi(\theta)=(U\beta^T,U\phi^T)^T$, em que 
    
 
-  $U_{\beta}=\partial{L}(\theta)/\partial\beta=w(\delta)\boldsymbol{X}^T \boldsymbol{\Sigma}^-1\epsilon$
+  $U_{\beta}=\partial{L}(\theta)/\partial\beta=w(\delta)\boldsymbol{X}^T \boldsymbol{\Sigma}^-1\epsilon and U_\theta=$
